@@ -12,4 +12,4 @@
 #### Basically u just run the program, and click on whatever text field u like, whether it's whatsapp web or discord, and....it does the magic itself!
 ```
 
-# <p align="center>Happy Trolling !!! :joy: </p>
+# <p align="center">Happy Trolling !!! :joy: </p>
